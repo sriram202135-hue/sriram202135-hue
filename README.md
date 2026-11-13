@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sriram S 👋
 
-<!--
-**sriram202135-hue/sriram202135-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.E. CSE (AI & ML) student at KPR Institute of Engineering and Technology, Coimbatore.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Foundations in C, Python and SQL
+- Interested in Artificial Intelligence, Machine Learning and Cybersecurity
+- Built a footstep energy generator prototype using piezoelectric sensors and an Arduino Nano
+
+## Projects
+
+- [Footstep Energy Generator](https://github.com/sriram202135-hue/footstep-energy-generator): piezo-based energy harvesting prototype with Arduino Nano and LCD display
+- [Student Marks Analyzer](https://github.com/sriram202135-hue/student-marks-analyzer): Python command-line marks analysis program
+
+## Certifications
+
+See [certifications](https://github.com/sriram202135-hue/certifications) for MATLAB, Image Processing, AI and Generative AI courses.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/sriram-s-3a051b411)
